@@ -1,1 +1,1 @@
-# install_script
+install script
